@@ -1,0 +1,9 @@
+Git-It is version control which is used to versioning the source code.it is open source version control where we can deploy our code.
+Git-commands:
+git add . -- This command is used to the files.(.) represent the all the file in the directory or by the file name.
+git commit -m "commitname" -- This is used to keep track of the version of the file by adding the (-m)message.
+git push origin master -- master is the default branch.Here we push all the file in to git.
+git clone -- By these we clone the file into the local directory.
+git status -- check the staus of the directory.
+git branch -- how many branches are present.
+git checkout -b <branchname> -- By using this we are changing the branch from default branch to some other branch.
